@@ -5,20 +5,20 @@ Este repositório contém um script PowerShell simples e eficiente que renomeia 
 
 # Você tem vários arquivos como: 
 
-relatorio_maio_jun25.xlsx
-extrato_funcionarios_jun25.xlsx
-alelo_gastos_jun25.xlsx
+- relatorio_vendas.xlsx
+- extrato_funcionarios.xlsx
+- alelo_gastos.xlsx
 
 
 # E quer que eles fiquem assim:
 
 
-relatorio_maio_jun25.xlsx
-extrato_funcionarios_jun25.xlsx
-alelo_gastos_jun25.xlsx
+- relatorio_vendas_jun25.xlsx
+- extrato_funcionarios_jun25.xlsx
+- alelo_gastos_jun25.xlsx
 
-📝 Como usar
-Abra o PowerShell (Windows+s e procure por powershell).
+## 📝 Como usar
+```Abra o PowerShell (Windows+s e procure por powershell).
 
 Navegue até a pasta onde estão suas planilhas:
 → importante colocar o cd e aspas antes de inserir o caminho
@@ -26,6 +26,7 @@ Navegue até a pasta onde estão suas planilhas:
 cd "C:\caminho\da\pasta"
 
 Dê enter.
+```
 
 Depois copie e cole o Script abaixo:
 
