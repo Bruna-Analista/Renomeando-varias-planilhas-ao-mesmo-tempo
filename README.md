@@ -18,7 +18,7 @@ Este repositório contém um script PowerShell simples e eficiente que renomeia 
 - alelo_gastos_jun25.xlsx
 
 ## 📝 Como usar
-```Abra o PowerShell (Windows+s e procure por powershell).
+Abra o PowerShell (Windows+s e procure por powershell).
 
 Navegue até a pasta onde estão suas planilhas:
 → importante colocar o cd e aspas antes de inserir o caminho
